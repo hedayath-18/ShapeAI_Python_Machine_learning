@@ -1,30 +1,31 @@
-# SHAPEAI PYTHON AND MACHINE LEARNING BOOTCAMP
-Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
-</b>.
-The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
-learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
-<br><br>Here's the link for you to watch the sessions as well<br>
-<a
-href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulNEA-59W7wWgCWE8LEOD6h"
-> <img
-src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/YOUTUBE%2
-0THUMBNAIL-5.png"> </a>
-<br>I got to have hands on experience on:
-<li>Python
-<li>Machine Learning
-<li>Tensorflow
-<br>during these 7 days, and everything was explained from the very basics so that
-anyone with zero experience on programming can learn.
-I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
-<a href="https://www.shapeai.tech"> www.shapeai.tech</a>
-or follow SHAPEAI on:
-<li><a href=
-"https://in.linkedin.com/company/shapeai">LinkedIn</a>
-<li><a href=
-"https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
-<li><a
-href=
-"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu
-be</a>
-<li><a href=
-"https://github.com/shapeai">GitHub</a>
+# Python and Machine Learning Bootcamp
+
+A learning project completed during the 7-Day Python and Machine Learning Bootcamp conducted by ShapeAI.
+
+## Overview
+
+This repository documents my learning experience with Python and introductory machine learning concepts through hands-on exercises.
+
+## Topics Covered
+
+- Python programming
+- Introduction to Machine Learning
+
+## Learning Resources
+
+Bootcamp sessions: [Watch on YouTube](https://www.youtube.com/playlist?list=PL7zI8TDRnbuINEA-59W7wWgCWE8LEOD6h)
+
+## Repository Contents
+
+- `Hedayath.ipynb` — Bootcamp notebook and exercises, once the notebook format is verified.
+
+## Running the Notebook
+
+1. Install Python and Jupyter Notebook.
+2. Install the libraries required by the notebook.
+3. Open the notebook in Jupyter or Google Colab.
+4. Run the cells in order.
+
+## Notes
+
+This repository represents my bootcamp learning work. Future projects will demonstrate additional machine learning implementations and experiments.
